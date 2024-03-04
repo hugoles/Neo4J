@@ -3,11 +3,11 @@
 ## Overview
 This project is a simulation of a social media platform using Neo4j, a graph database. It focuses on modeling a simplified version of social media interactions, particularly interactions with posts.
 
-###Friends
+### Friends
 
 ![graph](https://github.com/hugoles/Neo4J/assets/67278688/dd21c0a6-6b06-4feb-816e-192e329211c1)
 
-###Post with comments
+### Post with comments
 ![Screenshot_13](https://github.com/hugoles/Neo4J/assets/67278688/94549958-dad5-428a-a37c-8c6989fc72a5)
 
 ## Features
