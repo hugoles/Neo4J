@@ -20,7 +20,7 @@ This project is a simulation of a social media platform using Neo4j, a graph dat
 1. **Set up Neo4j**: Install Neo4j on your local machine or server.
 2. **Database Schema**: Design and implement the database schema to represent users, posts, and interactions between them.
 3. **Application Logic**: Develop the application logic using your preferred programming language (e.g., Java, Python) to interact with the Neo4j database and simulate post interactions.
-4. **Run the Application**: Start the application and simulate user interactions with posts.
+4. **Run the Application**: Start the application and create schema with "Criar_n_s_para_os_perfis.cypher".
 5. **Run the Querys**: Query 1 and Query 2
 
 ## Future Enhancements
